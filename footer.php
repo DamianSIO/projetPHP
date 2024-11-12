@@ -1,0 +1,1 @@
+page FOOTER.php
